@@ -1,3 +1,8 @@
+# 📸 Screenshot
+
+![Chatbot Screenshot](images/dashboard.png)
+![Chatbot Screenshot](images/image.png)
+
 **📌 Overview**
 This project contains a Langflow-powered chatbot agent designed for the University of Jos (UniJos).
 The chatbot helps students and visitors interact with information in a conversational way.
@@ -35,10 +40,3 @@ Open http://localhost:7860 in your browser.
 →Select unijos.json.
 
 Start chatting 🎉
-
-
-
-
-
-
-
